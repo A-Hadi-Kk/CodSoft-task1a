@@ -280,6 +280,7 @@ span {
 .education-colunm .title{
     font-size: 2.5rem;
     margin: 0 0 1.5rem 2rem;
+    color: #ffff
 }
 .education-colunm .education-box{
     border-left: .2rem solid #5DB9EE;
@@ -320,6 +321,13 @@ span {
 .education-content .content h3{
     font-size: 2rem;
 }
+.education-content .content h3 a{
+    font-size: 2rem;
+    color: #FFF;
+}
+.education-content .content h3 a:hover{
+    color: #3877FF;
+}
 .education-content .content p{
     font-size: 1.6rem;
     padding-top: .5rem;
@@ -340,6 +348,7 @@ span {
 .skills.colunm .title{
     font-size: 2.5rem;
     margin: 0 0 1.5rem;
+
 }
 .skills-box .skills-content{
     position: relative;
@@ -377,8 +386,8 @@ span {
 }
 .skills-colunm .title{
     padding:30px;
-    color: #5DB9EE;
-    font-size: 1.5rem;
+    color: #FFFF;
+    font-size: 2.5rem;
 }
 .skills .heading{
     font-size: 4rem;
