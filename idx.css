@@ -217,6 +217,7 @@ span {
     border-radius: 50%;
     display: flex;
     align-items: center;
+    object-fit: cover;
 }
 .about-img img{
     border-radius: 50%;
@@ -443,6 +444,7 @@ span {
     margin: .8rem 0;
     transition: border-color .4s, background-color .4s;
     font-size: .8rem;
+    padding-left: 1rem;
 }
 .contact-input:focus{
     color: #5DB9EE;
